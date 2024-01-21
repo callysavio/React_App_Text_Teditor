@@ -1,3 +1,6 @@
+<img width="930" alt="text_editor" src="https://github.com/callysavio/React_App_Text_Teditor/assets/90031613/4b087fdc-2f8e-4f16-b07f-6e4d93439907">
+
+
 # Simple React Text Editor
 A lightweight and customizable text editor built with React, featuring essential functionalities like text manipulation, font styling, color customization, and undo/redo functionality. The project utilizes React hooks, context API, and CSS for a responsive and user-friendly interface.
 
