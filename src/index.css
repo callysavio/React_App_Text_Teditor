@@ -99,6 +99,11 @@ label {
   margin-bottom: 20px;
 }
 
+  #footer{
+    text-align: center;
+    margin-top: 50px;
+  }
+
 /* responsive design for different screen sizes*/
 
 @media (max-width: 850px) {
