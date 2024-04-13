@@ -13,7 +13,7 @@ const App = () => {
       <TextEditor />
       </EditorContextProvider>
       </div>
-      <p>&copy;2024 Developed by Callistus Anwara</p>
+      <p id="footer">&copy;2024 Developed by Callistus Anwara</p>
       </div>
   );
 };
